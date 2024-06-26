@@ -547,6 +547,20 @@ The table below shows a detailed overview on which permissions authorize a user 
       <td>X</td>
       <td>X</td>
     </tr>
+    <tr>
+      <th>Update Comments</th>
+      <td></td>
+      <td>X</td>
+      <td></td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <th>Delete Comments</th>
+      <td></td>
+      <td>X</td>
+      <td></td>
+      <td>X</td>
+    </tr>
   </tbody>
 </table>
 
